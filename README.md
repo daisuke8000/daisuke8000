@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Image from Gyazo](https://i.gyazo.com/d011b7212eda15ce579fd809522bf5bf.jpg)](https://gyazo.com/d011b7212eda15ce579fd809522bf5bf)
+
 <!--
 **daisuke8000/daisuke8000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
