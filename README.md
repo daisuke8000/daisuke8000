@@ -3,7 +3,7 @@
 [![Image from Gyazo](https://i.gyazo.com/d011b7212eda15ce579fd809522bf5bf.jpg)](https://gyazo.com/d011b7212eda15ce579fd809522bf5bf)
 
 ## Profile
-**名前** : 佐々木大介（DaisukeSasaki）
+### 名前 : 佐々木大介（DaisukeSasaki）
 
 ### SNS
 **Twitter**
@@ -20,24 +20,20 @@ https://qiita.com/daisuke8000
 
 ## 技術（2020/07/09）
 ### 言語
-**Python**
-- 1年~(直近ではほぼ使用せず。)
+**Python(1年~(直近ではほぼ使用せず。))**
 
 https://github.com/daisuke8000/WorkRecord
 
-**Ruby**
-- 6か月~
+**Ruby(6か月~)**
 
 https://github.com/daisuke8000/ruby-portfolios
 
-**golang**
-- 0か月~
+**golang(0か月~)**
 
 https://github.com/daisuke8000/golang-try
 
 ### FW
-**Rails**
-- 5か月~
+**Rails(5か月~)**
 - 個人ポートフォリオ : https://github.com/daisuke8000/VideoRooms
 - 共同開発１ : https://github.com/T-Tsujii/gyakuten_clone_group14
 - 共同開発２ : https://github.com/daisuke8000/Taskun
