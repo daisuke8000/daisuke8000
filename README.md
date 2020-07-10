@@ -18,7 +18,7 @@ yyyyyyyy
 
 https://qiita.com/daisuke8000
 
-## 技術スタック（2020/07/09）
+## 技術（2020/07/09）
 ### 言語
 **Python**
 - 1年~
