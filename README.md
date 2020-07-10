@@ -8,11 +8,11 @@
 ### SNS
 **Twitter**
 
-xxxxxxxx
+https://mobile.twitter.com/daisuke80001
 
 **FaceBook**
 
-yyyyyyyy
+https://www.facebook.com/profile.php?id=100050828706339
 
 **Qiita**
 
@@ -21,16 +21,18 @@ https://qiita.com/daisuke8000
 ## 技術（2020/07/09）
 ### 言語
 **Python**
-- 1年~
-- 直近ではほぼ使用せず。
+- 1年~(直近ではほぼ使用せず。)
+
 https://github.com/daisuke8000/WorkRecord
 
 **Ruby**
 - 6か月~
+
 https://github.com/daisuke8000/ruby-portfolios
 
 **golang**
 - 0か月~
+
 https://github.com/daisuke8000/golang-try
 
 ### FW
