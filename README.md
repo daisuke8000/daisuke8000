@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-[![Image from Gyazo](https://i.gyazo.com/d011b7212eda15ce579fd809522bf5bf.jpg)](https://gyazo.com/d011b7212eda15ce579fd809522bf5bf)
-
 ## Profile
-### 名前 : 佐々木大介（DaisukeSasaki）
+### Name : DaisukeSasaki
 
 ## zenn.dev
 ### [Zenn](https://zenn.dev/daisukesasaki)
