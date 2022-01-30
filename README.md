@@ -32,3 +32,5 @@ I regularly write articles on [Zenn](https://zenn.dev/daisukesasaki)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisuke8000&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=daisuke8000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
