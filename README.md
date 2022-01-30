@@ -13,8 +13,14 @@ I regularly write articles on [Zenn](https://zenn.dev/daisukesasaki)
   <a href="https://github.com/daisuke8000">
     <img height="20" src="https://img.shields.io/github/followers/daisuke8000?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/daisuke8000">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/daisuke8000?label=Reddit&logo=reddit&style=flat" />
+  <a href="https://zenn.dev/daisukesasaki">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/daisukesasaki/likes" />
+  </a>
+  <a href="https://zenn.dev/daisukesasaki">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/daisukesasaki/followers" />
+  </a>
+  <a href="https://zenn.dev/daisukesasaki">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/daisukesasaki/articles" />
   </a>
   <a href="http://qiita.com/daisuke8000">
     <img height="20" src="https://qiita-badge.apiapi.app/s/daisuke8000/posts.svg" />
@@ -32,5 +38,3 @@ I regularly write articles on [Zenn](https://zenn.dev/daisukesasaki)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisuke8000&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=daisuke8000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
