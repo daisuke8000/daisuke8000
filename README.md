@@ -33,8 +33,10 @@ I regularly write articles on [Zenn](https://zenn.dev/daisukesasaki)
 ### I love FastAPI !
 I would like to thank all the developers involved in this project. Thank You!
   
-<p align="left"> 
-  <img alt="FastAPI" height="20%" width="20%" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
+<p align="left">
+  <a href="https://fastapi.tiangolo.com/">
+    <img alt="FastAPI" height="20%" width="20%" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
+  </a>
 </p>    
     
     
