@@ -30,10 +30,9 @@ I regularly write articles on [Zenn](https://zenn.dev/daisukesasaki)
   </a>
 </p>
 
-### I love FastAPI.
-Thank you to all the developers involved in this project.
-I'm sponsoring this project in a small way.
-
+### I love FastAPI !
+I would like to thank all the developers involved in this project. Thank You!
+  
 <p align="left"> 
   <img alt="FastAPI" height="20%" width="20%" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
 </p>    
