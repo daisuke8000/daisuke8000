@@ -1,6 +1,6 @@
 ### Hi! I'm daisuke8000 👋
 I regularly write articles on [Zenn](https://zenn.dev/daisukesasaki)
-### [DaisukeSasaki](https://menamo.link/profiles/daisukesasaki)
+### [DaisukeSasaki](https://www.linkedin.com/in/daisuke-sasaki-37878025a/?trk=public_profile-settings_edit-profile-content&originalSubdomain=jp)
 
 <p align="left"> 
   <a href="https://github.com/daisuke8000/daisuke8000/">
