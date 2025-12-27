@@ -39,12 +39,14 @@ Software Engineer building developer tools with **Rust**.
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/daisuke8000/daisuke8000/master/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+    <img src="https://raw.githubusercontent.com/daisuke8000/daisuke8000/master/profile-summary-card-output/tokyonight/0-profile-details.svg" width="800" />
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daisuke8000/daisuke8000/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daisuke8000/daisuke8000/master/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daisuke8000/daisuke8000/master/img/snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daisuke8000/daisuke8000/master/img/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daisuke8000/daisuke8000/master/img/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daisuke8000/daisuke8000/master/img/snake.svg" width="800" />
+  </picture>
+</p>
