@@ -36,6 +36,23 @@ Software Engineer building developer tools with **Rust**.
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎆 grass-fireworks</h3>
+      <p>GitHub contributions visualized as animated SVG fireworks. More commits = bigger fireworks display!</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/daisuke8000/grass-fireworks">Repository</a> •
+        <a href="https://grass-fireworks.dsk8.workers.dev/api/demo?commits=30">Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 ---
