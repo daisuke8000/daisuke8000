@@ -33,7 +33,7 @@ Software Engineer building developer tools with **Rust**.
 
 <p align="center">
   <a href="https://github.com/daisuke8000/grass-fireworks">
-    <img src="https://grass-fireworks.dsk8.workers.dev/api/fireworks?user=daisuke8000" alt="Today's Fireworks" />
+    <img src="https://grass-fireworks.dsk8.workers.dev/api/fireworks?user=daisuke8000&width=800&height=200" alt="Today's Fireworks" />
   </a>
 </p>
 
