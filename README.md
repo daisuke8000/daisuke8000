@@ -77,8 +77,9 @@ Software Engineer building developer tools with **Rust**.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daisuke8000/daisuke8000/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="400" />
-  <img src="https://raw.githubusercontent.com/daisuke8000/daisuke8000/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="400" />
+  <a href="https://github.com/daisuke8000/grass-fireworks">
+    <img src="https://grass-fireworks.dsk8.workers.dev/api/fireworks?user=daisuke8000&width=600&height=300" alt="Today's Fireworks" />
+  </a>
 </p>
 
 <picture>
