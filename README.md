@@ -13,6 +13,7 @@ Software Engineer building developer tools with **Rust**.
 | [🪸 Coral](https://github.com/daisuke8000/coral) | Proto dependency visualizer with interactive Web UI | Rust, React, GitHub Actions |
 | [🖥️ mbr-cli](https://github.com/daisuke8000/mbr-cli) | CLI/TUI tool for Metabase API | Rust, Tokio, Ratatui |
 | [🎆 grass-fireworks](https://github.com/daisuke8000/grass-fireworks) | GitHub contributions as animated fireworks | TypeScript, Hono, CF Workers |
+| [🃏 phx-poker](https://github.com/daisuke8000/phx-poker) | Real-time planning poker with no database | Elixir, Phoenix LiveView, GenServer |
 
 ---
 
@@ -21,6 +22,7 @@ Software Engineer building developer tools with **Rust**.
 <p>
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
