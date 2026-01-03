@@ -14,7 +14,7 @@ Software Engineer building developer tools with **Rust**.
 | [🖥️ mbr-cli](https://github.com/daisuke8000/mbr-cli) | CLI/TUI tool for Metabase API | Rust, Tokio, Ratatui |
 | [🎆 grass-fireworks](https://github.com/daisuke8000/grass-fireworks) | GitHub contributions as animated fireworks | TypeScript, Hono, CF Workers |
 | [🃏 phx-poker](https://github.com/daisuke8000/phx-poker) | Real-time planning poker with no database | Elixir, Phoenix LiveView, GenServer |
-| 🎙️ rumin | Voice-driven KPT retrospective app with AI facilitator | Rust, React, CF Workers |
+| [🎙️ rumin](https://rumin.cc) | Voice-driven KPT retrospective app with AI facilitator | Rust, React, CF Workers |
 
 ---
 
