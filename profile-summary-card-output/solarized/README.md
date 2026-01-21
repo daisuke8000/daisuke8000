@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/daisuke8000/daisuke8000/master/profile-summary-card-output/solarized/4-productive-time.svg)
-```
-
-    
