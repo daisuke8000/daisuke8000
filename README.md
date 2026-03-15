@@ -3,6 +3,7 @@
 Software Engineer building developer tools with **Rust**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-daisuke8000.github.io-00f5ff?style=flat-square&logo=github&logoColor=white)](https://daisuke8000.github.io)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/daisuke12108000)
 
 ---
 
